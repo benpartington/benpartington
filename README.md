@@ -16,7 +16,7 @@ height="40" width="40">
     </p>
    </div>
 
-- 🔭 I’m currently working on: Finding my first developer role!
+- 🔭 I’m currently working on: Finding my first role as a Software Developer!
 - 📄 Have a look at my CV: [Here](https://github.com/benpartington/CV) 
 - 🌱 I’m currently learning: JavaScript, React and more
 - 📫 How to reach me: bdpartington@gmail.com
