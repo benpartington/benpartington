@@ -16,8 +16,8 @@ height="40" width="40">
     </p>
    </div>
 
-- 🔭 I’m currently working on: Finding my first role as a Software Developer!
+- 🔭 I’m currently working on: Learning C# in my first role as a Software Developer!
 - 📄 Have a look at my CV: [Here](https://github.com/benpartington/CV) 
-- 🌱 I’m currently learning: JavaScript, React and more
+- 🌱 I’m currently learning: C#, Azure, React and more
 - 📫 How to reach me: bdpartington@gmail.com
 - ⚡ Fun fact: I also paint [sci-fi miniatures](https://www.instagram.com/benpartingtonpainting/?hl=en)
